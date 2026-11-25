@@ -103,7 +103,7 @@ HTMLAudioElement
 
 ## Extra Features Added
 
-- **Pre-Bundled Playlist:** Three preloaded tracks (`Laut aana.mp3`, `Tujhe Keh Na Saka.mp3`, `Nazm Main Likhoon.mp3`) ready to play immediately.
+- **Pre-Bundled Playlist:** Three preloaded tracks (`Laut aana.mp3`, `Tujhe Keh Na Saka.mp3`, `Nazm Main Likhoon.mp3`) ready to play immediately which were produced using **SunoAI** using their V6-mini model.
 - **Playback Speed Controls:** Quick-select chips for `0.5x`, `0.75x`, `1.0x`, `1.25x`, `1.5x`, `1.75x`, and `2.0x`.
 - **5-Second Skip Buttons:** `-5s` (`replay_5`) and `+5s` (`forward_5`) buttons.
 - **Volume Slider:** Real-time `0%`–`100%` volume control placed above the EQ section.
